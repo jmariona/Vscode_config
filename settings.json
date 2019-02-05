@@ -1,0 +1,58 @@
+{
+	"prettier.arrowParens": "always",
+	"prettier.endOfLine": "lf",
+	"prettier.trailingComma": "es5",
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"editor.formatOnSave": true,
+	"javascript.format.enable": true,
+	"auto-close-tag.SublimeText3Mode": true,
+	"auto-rename-tag.activationOnLanguage": ["*"],
+	"editor.tabSize": 2,
+	"javascript.autoClosingTags": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"html.autoClosingTags": true,
+	"editor.autoIndent": true,
+	"editor.autoClosingQuotes": "always",
+	"auto-close-tag.activationOnLanguage": [
+		"xml",
+		"php",
+		"blade",
+		"ejs",
+		"jinja",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"plaintext",
+		"markdown",
+		"vue",
+		"liquid",
+		"erb",
+		"lang-cfml",
+		"cfml",
+		"HTML (Eex)"
+	],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"files.autoSave": "off",
+	"html.format.contentUnformatted": "pre,code,textarea",
+	"html.format.indentHandlebars": true,
+	"html.format.indentInnerHtml": true,
+	"html.format.enable": true,
+	"vetur.format.defaultFormatter.html": "prettyhtml",
+	"vscode-php-cs-fixer.fixOnSave": true,
+	"vetur.completion.autoImport": true,
+	"vetur.format.defaultFormatter.js": "prettier",
+	"vetur.format.defaultFormatter.ts": "prettier",
+	"vetur.format.options.useTabs": true,
+	"vetur.format.defaultFormatter.scss": "prettier",
+	"vetur.format.options.tabSize": 2
+}
